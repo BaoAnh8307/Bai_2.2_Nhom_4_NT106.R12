@@ -43,5 +43,14 @@ namespace FormDangNhap
                 HoTen = reader.GetString(4)
             };
         }
+        public void CapNhatLanDangNhapCuoi(int userId)
+        {
+            const string sql = "UPDATE Users SET LanDangNhapCuoi = SYSDATETIME() WHERE UserId = @id";
+            using SqlConnection conn = new SqlConnection(chuoiKetNoi);
+            using SqlCommand cmd = new SqlCommand(sql, conn);
+            cmd.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = userId;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+        }
     }
 }
