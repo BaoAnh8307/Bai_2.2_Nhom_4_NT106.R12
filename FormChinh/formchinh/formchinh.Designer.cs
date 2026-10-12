@@ -65,9 +65,9 @@
             lbtieude.ForeColor = SystemColors.Control;
             lbtieude.Location = new Point(25, 36);
             lbtieude.Name = "lbtieude";
-            lbtieude.Size = new Size(71, 30);
+            lbtieude.Size = new Size(121, 30);
             lbtieude.TabIndex = 6;
-            lbtieude.Text = "label6";
+            lbtieude.Text = "Form chính";
             // 
             // lbname
             // 
@@ -95,9 +95,10 @@
             lblast.Font = new Font("Segoe UI", 13F);
             lblast.Location = new Point(21, 323);
             lblast.Name = "lblast";
-            lblast.Size = new Size(71, 30);
+            lblast.Size = new Size(201, 30);
             lblast.TabIndex = 4;
-            lblast.Text = "label4";
+            lblast.Text = "Lần cuối đăng nhập";
+            lblast.Click += lblast_Click;
             // 
             // lbdate
             // 
