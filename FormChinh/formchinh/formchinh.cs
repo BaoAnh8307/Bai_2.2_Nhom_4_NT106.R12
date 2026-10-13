@@ -61,5 +61,10 @@ namespace formchinh
         {
             Close();
         }
+
+        private void lblast_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
