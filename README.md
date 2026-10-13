@@ -7,7 +7,7 @@
 
 | STT | MSSV | Họ và tên | Phân công dự kiến |
 | :---: | :--- | :--- | :--- |
-| 1 | 25520440 | Phạm Lê Minh Duy | Form chính |
+| 1 | 25520440 | Phạm Lê Minh Duy | Form chính + Database |
 | 2 | 25520906 | Nguyễn Đăng Khôi | Form Đăng ký + Băm mật khẩu + Database|
 | 3 | 25520053 | Huỳnh Trần Duy Bảo Anh | Tổng hợp, chạy demo và viết báo cáo |
 | 4 | 25521161 | Nguyễn Hoài Nam | Form Đăng nhập |
