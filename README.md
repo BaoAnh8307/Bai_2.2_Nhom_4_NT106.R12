@@ -7,11 +7,11 @@
 
 | STT | MSSV | Họ và tên | Phân công dự kiến |
 | :---: | :--- | :--- | :--- |
-| 1 | 25520440 | Phạm Lê Minh Duy | |
-| 2 | 25520906 | Nguyễn Đăng Khôi | |
-| 3 | 25520053 | Huỳnh Trần Duy Bảo Anh | |
-| 4 | 25521161 | Nguyễn Hoài Nam | |
-| 5 | 25520932 | Bùi Trọng Kiên | |
+| 1 | 25520440 | Phạm Lê Minh Duy | Form chính |
+| 2 | 25520906 | Nguyễn Đăng Khôi | Form Đăng ký + Băm mật khẩu + Database|
+| 3 | 25520053 | Huỳnh Trần Duy Bảo Anh | Tổng hợp, chạy demo và viết báo cáo |
+| 4 | 25521161 | Nguyễn Hoài Nam | Form Đăng nhập |
+| 5 | 25520932 | Bùi Trọng Kiên | Form chính |
 
 ## 📝 Giới thiệu đồ án
 Đây là Bài tập 2.2: Xây dựng ứng dụng quản lý người dùng có chức năng đăng ký và đăng nhập. Ứng dụng Windows Forms thực hiện kết nối trực tiếp tới cơ sở dữ liệu SQL Server với các tính năng:
